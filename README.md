@@ -3,7 +3,7 @@
 
 - 🌱 Estou estudando HTML, CSS e JAVASCRIPT
 - 🤔 Estou procurando ajuda com o REACT
-- 🎓 Cursando Análisise e Desenvolvimento de Sistema
+- 🎓 Cursando Análise e Desenvolvimento de Sistema
 
 <div>
   <img align="center" alt="AndressaSales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
