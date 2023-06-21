@@ -2,8 +2,6 @@
 
 
 - 🌱 Estou estudando HTML, CSS e JAVASCRIPT
-- 🤔 Estou procurando ajuda com o REACT
-- 🎓 Cursando Análise e Desenvolvimento de Sistema
   
 
 <div>
