@@ -1,4 +1,7 @@
-### Olá! Eu sou a Andressa Sales
+### Olá! 👋👋
+<hr>
+Eu sou a Andressa Sales
+<hr>
 
 
 - 🌱 Estou estudando HTML, CSS e JAVASCRIPT
