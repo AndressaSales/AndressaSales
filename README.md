@@ -1,6 +1,6 @@
 ### Olá! 👋👋
 <hr>
-Eu sou a Andressa Sales
+<p><i><strong>Eu sou a Andressa Sales</strong></i></p>
 <hr>
 
 
