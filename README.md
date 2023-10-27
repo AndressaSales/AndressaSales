@@ -3,8 +3,8 @@
 <p><i><strong>Eu sou a Andressa Sales</strong></i></p>
 <hr>
 
-
-- 🌱 Estou estudando HTML, CSS e JAVASCRIPT
+- 💡 Conhecimento em HTML, CSS e JavaScript
+- 🌱 Estou estudando ReactJs
   
 
 <div>
