@@ -3,6 +3,11 @@
 <p><i><strong>Eu sou a Andressa Sales</strong></i></p>
 <hr>
 
+ <div>
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AndressaSales&show_icons=true&theme=dracula&count_private=true">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AndressaSales&layout=compact&theme=dracula">
+</div>
+
 - 💡 Conhecimento em HTML, CSS, JavaScript e ReactJs
 - 🌱 Estou estudando Java
   
@@ -12,6 +17,7 @@
    <img align="center" alt="AndressaSales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AndressaSales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="AndressaSales-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
 </div>
 
 <hr>
