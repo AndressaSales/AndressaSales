@@ -13,10 +13,15 @@
   
 
 <div>
-  <img align="center" alt="AndressaSales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <!--<img align="center" alt="AndressaSales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="AndressaSales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="AndressaSales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="AndressaSales-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="AndressaSales-REACT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
+ 
+  <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
+  <img height='50em' src='https://cdn.worldvectorlogo.com/logos/css-3.svg'>
+  <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+  <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
   <img height='50em' src='https://cdn.worldvectorlogo.com/logos/java-4.svg'>
 </div>
 
