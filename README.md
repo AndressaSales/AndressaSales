@@ -27,12 +27,6 @@
           
 </div>
 
-<div style="flex-basis: 48%>
- <h3>Tools & Frameworks</h3>
- <img align="center" alt="AndressaSales-VSCODE" height="30" widght="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
-</div>
-
 <br>
 <di>
   <a href="https://www.linkedin.com/in/andressa-sales-04553a281/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
