@@ -9,7 +9,6 @@
 
  <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AndressaSales&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AndressaSales&layout=compact&theme=dracula">
 </div>
 
 - 💡 Conhecimento em HTML, CSS, JavaScript e ReactJs
