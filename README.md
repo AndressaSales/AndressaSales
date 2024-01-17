@@ -7,13 +7,16 @@
 <p><i><strong>Eu sou a Andressa Sales</strong></i></p>
 <hr>
 
- <div>
+ <div align="center">
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AndressaSales&show_icons=true&theme=dracula&count_private=true">
 </div>
 
 - 💡 Conhecimento em HTML, CSS, JavaScript e ReactJs
 - 🌱 Estou estudando Java
-  
+
+  <div>
+    <img src="https://github.com/AndressaSales/AndressaSales/assets/134095596/bfce9440-8838-4a77-8c81-6b2848f6c651" />
+  </div>
 
 <div style="flex-basis: 48%;>
    <h3>Programming Languages</h3>
@@ -26,6 +29,4 @@
    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />        
 </div>
 
-  
-</di>
 
