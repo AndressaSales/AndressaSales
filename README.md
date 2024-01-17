@@ -15,7 +15,7 @@
 - 🌱 Estou estudando Java
 
   <div>
-    <img src="https://github.com/AndressaSales/AndressaSales/assets/134095596/bfce9440-8838-4a77-8c81-6b2848f6c651" />
+    <img wight="100" height="200" aling="center" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/bfce9440-8838-4a77-8c81-6b2848f6c651" />
   </div>
 
 <div style="flex-basis: 48%;>
