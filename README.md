@@ -1,6 +1,6 @@
 
 <div id="user-content-toc">
-<video src="https://github.com/AndressaSales/AndressaSales/assets/134095596/30625f7f-0fbf-46c6-9368-dcc2c41b8152"></video>
+<img aling="center" widht="" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/501ebc5e-db69-4b8b-8b0c-6a341b016b8b" />
 
 </div>
 <hr>
