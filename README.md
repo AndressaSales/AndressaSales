@@ -3,12 +3,12 @@
 <img aling="center" widht="" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/501ebc5e-db69-4b8b-8b0c-6a341b016b8b" />
 
 </div>
-<img aling="center" width="100%" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/ed99a80c-2821-4259-a3f1-b7a11d291ace" />
+<!--<img aling="center" width="100%" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/ed99a80c-2821-4259-a3f1-b7a11d291ace" />-->
  <div align="center">
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AndressaSales&show_icons=true&theme=dracula&count_private=true">
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AndressaSales&layout=compact&theme=dracula">
 </div>
-<img aling="center" width="100%" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/ed99a80c-2821-4259-a3f1-b7a11d291ace" />
+<!--<img aling="center" width="100%" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/ed99a80c-2821-4259-a3f1-b7a11d291ace" />-->
 
 - 💡 Conhecimento em HTML, CSS, JavaScript e ReactJs
 - 🌱 Estou estudando Java
