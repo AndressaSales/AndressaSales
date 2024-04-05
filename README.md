@@ -22,7 +22,7 @@
    <img align="center"  alt="AndressaSales-REACT" height="30" width="40" src="https://devicons.dev.br/icons?icon=React&theme=dark">
    <img align="center" alt="AndressaSalesVue" height="30" widht="40" src="https://devicons.dev.br/icons?icon=VueJS&theme=dark" />
    <img align="center" alt="AndressaSales-Java" height="30" width="40" src="https://devicons.dev.br/icons?icon=Java&theme=dark" />
-   <img  align="center" alt="AndressaSales-Java" height="30" width="40"  scr='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg'/>
+   <img  align="center" alt="AndressaSales-Java" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>
    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40"  src="https://devicons.dev.br/icons?icon=VSCode&theme=dark" />
 
 </div>
