@@ -10,8 +10,8 @@
 </div>
 <!--<img aling="center" width="100%" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/ed99a80c-2821-4259-a3f1-b7a11d291ace" />-->
 
-- 💡 Conhecimento em HTML, CSS, JavaScript. React.js e Java
-- 🌱 Estou estudando Vue.js
+- 💡 Conhecimento em HTML, CSS, JavaScript. React.js e Java, vue.js
+- 🌱 Estou estudando Nuxt.js
 
 <div style="flex-basis: 48%;>
     - Skills
