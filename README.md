@@ -14,9 +14,10 @@
 - 🌱 Estou estudando Next.js
 
 <div style="flex-basis: 48%;>
-    <h1>- Skills</h1>
-   <img align="center" alt="AndressaSales-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-   <img align="center" alt="AndressaSales-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+    - Skills  
+ 
+   <img aiign="center" alt="AndressaSales-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+   <img aiign="center" alt="AndressaSales-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
    <img align="center" alt="AndressaSales-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
    <img align="center" alt="AndressaSales-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />          
    <img align="center" alt="AndressaSales-SASS" height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />  
@@ -24,10 +25,8 @@
    <img align="center"  alt="AndressaSales-REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
    <img align="center" alt="AndressaSales-Vue" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg"/>
    <img align="center" alt="AndressaSales-Nuxt" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
-   <img align="center" alt="AndressaSales-Next" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />    
-   <img align="center" alt="AndressaSales-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />      
+   <img align="center" alt="AndressaSales-Next" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />          
    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-
 </div>
 
 
