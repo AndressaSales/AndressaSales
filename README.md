@@ -10,7 +10,7 @@
 </div>
 <!--<img aling="center" width="100%" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/ed99a80c-2821-4259-a3f1-b7a11d291ace" />-->
 
-- 💡 Conhecimento em HTML, CSS, JavaScript. Node.js, React.js, vue.js, Nuxt.js
+- 💡 Conhecimento em HTML, CSS, JavaScript. Jquery, Node.js, React.js, vue.js, Nuxt.js, Tailwind, TypeScript
 - 🌱 Estou estudando Next.js
 
 <div style="flex-basis: 48%;>
