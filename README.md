@@ -1,6 +1,6 @@
 
 <div id="user-content-toc">
-<img aling="center" widht="" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/501ebc5e-db69-4b8b-8b0c-6a341b016b8b" />
+<!--<img aling="center" widht="" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/501ebc5e-db69-4b8b-8b0c-6a341b016b8b" />-->
 
 </div>
 <!--<img aling="center" width="100%" src="https://github.com/AndressaSales/AndressaSales/assets/134095596/ed99a80c-2821-4259-a3f1-b7a11d291ace" />-->
@@ -28,7 +28,7 @@
    <img align="center" alt="AndressaSales-Nuxt" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
    <img align="center" alt="AndressaSales-Next" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />          
    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-   <img align="center" alt="AndressaSales-Type" heigth="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+   <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
           
 </div>
 
