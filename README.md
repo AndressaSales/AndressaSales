@@ -13,9 +13,9 @@
 - 💡 Conhecimento em HTML, CSS, JavaScript. Jquery, Node.js, React.js, vue.js, Nuxt.js, Tailwind, TypeScript
 - 🌱 Estou estudando Next.js
 
+<p> - Skills </p>
 <div style="flex-basis: 48%;>
-    - Skills  
- 
+     
    <img aiign="center" alt="AndressaSales-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img aiign="center" alt="AndressaSales-HTML" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img aiign="center" alt="AndressaSales-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
@@ -28,6 +28,8 @@
    <img align="center" alt="AndressaSales-Nuxt" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
    <img align="center" alt="AndressaSales-Next" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />          
    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+   <img align="center" alt="AndressaSales-Type" heigth="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+          
 </div>
 
 
