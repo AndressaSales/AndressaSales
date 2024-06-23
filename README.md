@@ -13,9 +13,10 @@
 - 💡 Conhecimento em HTML, CSS, JavaScript. Jquery, Node.js, React.js, vue.js, Nuxt.js, Tailwind, TypeScript
 - 🌱 Estou estudando Next.js
 
-<p> - Skills </p>
+<!--<p> - Skills </p>-->
 <div style="flex-basis: 48%;>
  
+   <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
    <img align="center" alt="AndressaSales-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
