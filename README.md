@@ -28,6 +28,7 @@
    <img align="center" alt="AndressaSales-Nuxt" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" />
    <img align="center" alt="AndressaSales-Next" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />         
    <img align="center" alt="AndressaSales-Type" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+   <img align="center" alt="AndressaSales-Type" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />  
 </div>
 
