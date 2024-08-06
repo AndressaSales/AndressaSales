@@ -1,16 +1,9 @@
-## Olá Meus Jovens👋
+## Olá Meus Queridos👋
 
 <img  width="300" align="right"  src="https://github.com/user-attachments/assets/95787650-5de8-4b39-a5d2-9210e798b18d" />
 Me chamo Andressa Sales, tenho 23 anos, sou pernambucana, sou tecnologa de Análise e Desenvolvimento de Sistema e atualmente sou desenvolvedora <b>Front-end</b>jr 
 
-
-
- <div align="center">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AndressaSales&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AndressaSales&layout=compact&theme=dracula">
-</div>
-<!--<p> - Skills </p>-->
-<div style="flex-basis: 48%;>
+## 📋 Skills
  
    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align="center" alt="AndressaSales-Html" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -26,7 +19,11 @@ Me chamo Andressa Sales, tenho 23 anos, sou pernambucana, sou tecnologa de Anál
    <img align="center" alt="AndressaSales-Type" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
    <img align="center" alt="AndressaSales-Type" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />  
+   
+ <div align="center">
+    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AndressaSales&layout=compact&theme=dracula">
 </div>
+
 
 
 
