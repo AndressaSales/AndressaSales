@@ -1,12 +1,6 @@
 ## Olá Meus Jovens👋
 
-<div align="right" width="300">
-  <video>
-    <source src="https://github.com/user-attachments/assets/3dbb428e-d7ce-47de-ae9d-14f85b37e025" />
-  </video>
-</div>
-
-
+<img  width="300" align="right"  src="https://github.com/user-attachments/assets/95787650-5de8-4b39-a5d2-9210e798b18d" />
 Me chamo Andressa Sales, tenho 23 anos, sou pernambucana, sou tecnologa de Análise e Desenvolvimento de Sistema e atualmente sou desenvolvedora <b>Front-end</b>jr 
 
 
