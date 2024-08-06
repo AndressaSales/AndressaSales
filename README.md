@@ -5,7 +5,8 @@ Me chamo Andressa Sales, tenho 23 anos, sou pernambucana, sou tecnologa de Anál
 
 ## 📋 Skills
  
-   <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<div>
+    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align="center" alt="AndressaSales-Html" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align="center" alt="AndressaSales-Css" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
    <img align="center" alt="AndressaSales-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
@@ -18,7 +19,8 @@ Me chamo Andressa Sales, tenho 23 anos, sou pernambucana, sou tecnologa de Anál
    <img align="center" alt="AndressaSales-Next" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />         
    <img align="center" alt="AndressaSales-Type" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
    <img align="center" alt="AndressaSales-Type" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" />
-   <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />  
+   <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" /> 
+</div> 
    
  <div align="center">
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AndressaSales&layout=compact&theme=dracula">
