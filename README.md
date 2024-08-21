@@ -6,7 +6,6 @@ Me chamo Andressa Sales, tenho 23 anos, sou pernambucana, sou tecnologa de Anál
 # 📋 Skills
  
 <div>
-    <img align="center" alt="AndressaSales-VSCODE" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align="center" alt="AndressaSales-Html" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align="center" alt="AndressaSales-Css" height="30"  widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
    <img align="center" alt="AndressaSales-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
