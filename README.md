@@ -23,7 +23,6 @@ Me chamo Andressa Sales, tenho 23 anos, sou pernambucana, sou tecnologa de Anál
    <br/> 
  <div align="center" >
     <img height="150em" align="left" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=AndressaSales&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=AndressaSales&layout=compact&theme=dracula">
 </div>
 
 
