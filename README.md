@@ -1,5 +1,9 @@
-## Olá Dev's👋
 
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=DE1D7E&center=true&vCenter=true&width=435&lines=Bem+Vindo+ao+Meu+portf%C3%B3lio+!;Welcome+to+My+Profile+!;Ol%C3%A1+%F0%9F%91%8B;Hello+there+%F0%9F%91%8B;Meu+Nome+%C3%A9+Andressa+Sales;My+name+is+Andressa+Sales" alt="Typing SVG" /></a>
+</div
+<br/>
+<br/>
 ### ⚙️ Análise do Github/ GitHub Analytics
 
 <table>
