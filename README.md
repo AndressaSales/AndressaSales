@@ -35,7 +35,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" />
 
-Me chamo Andressa Sales, tenho 23 anos, sou pernambucana, sou tecnologa de Análise e Desenvolvimento de Sistema e atualmente sou desenvolvedora <b>Front-end</b>jr 
+Me chamo Andressa Sales, tenho 24 anos, sou pernambucana, sou tecnologa de Análise e Desenvolvimento de Sistema e atualmente sou desenvolvedora <b>Front-end</b>jr 
 
 ### 📋 Skills
  
