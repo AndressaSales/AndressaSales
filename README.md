@@ -2,7 +2,7 @@
 
 
 ## 👩‍💻 Tecnologia
-Estas são algumas das tecnologias que compõem meu stack.
+Estas são algumas das tecnologias que compõem meu stack:
 
 - Frontend:
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript)
