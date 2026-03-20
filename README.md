@@ -1,30 +1,22 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&color=9F4CFF&width=435&lines=Welcome+my+GitHub!;My+name+is+Andressa+;What's+up%3F%3F" alt="Typing SVG" /></a>
 
 
-## 👩‍💻 Tecnologia
+## 👩‍💻Habilidades Técnicas e Ferramentas
 Estas são algumas das tecnologias que compõem meu stack:
 
-- Frontend:
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript)
-![HTML5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=HTML5&logoColor=%23ffff)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css&logoColor=%23ffff)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss&logoColor=blue)
-![REACT](https://img.shields.io/badge/React-black?style=flat-square&logo=React&logoColor=blue)
-![NEXT](https://img.shields.io/badge/Next-black?style=flat-square&logo=Next.js&logoColor=%23fff)
-![VUE](https://img.shields.io/badge/Vue-black?style=flat-square&logo=Vue.js&logoColor=green)
-![JQUERY](https://img.shields.io/badge/Jquery-black?style=flat-square&logo=Jquery&logoColor=red)
-![SASS](https://img.shields.io/badge/SASS-black?style=flat-square&logo=Sass&logoColor=pink)
-![ANGULAR](https://img.shields.io/badge/Angular-red?style=flat-square&logo=Angular&logoColor=purple)
+<table align="center">
+<tr>
+<td>
 
+ | **Categoria** | **Tecnologia** |
+ | ------------- | -------------- |
+ | **Frontend** | ![JavaScript](https://skillicons.dev/icons?i=js)  ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![REACT](https://skillicons.dev/icons?i=react) ![NEXT](https://skillicons.dev/icons?i=next) ![VUE](https://skillicons.dev/icons?i=vue) ![NUXT](https://skillicons.dev/icons?i=nuxt) ![JQUERY](https://skillicons.dev/icons?i=jquery) ![SASS](https://skillicons.dev/icons?i=sass) ![ANGULAR](https://skillicons.dev/icons?i=angular)  |
+| **Backend** | <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="55" /> ![NODEJS](https://skillicons.dev/icons?i=nodejs)  |
+| **DataBase** | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="55" />  |
+| **IDSs** | ![VSCode](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="55" /> ![GIT](https://skillicons.dev/icons?i=git) |   
+| **Estudando Atualmente** | ![Spring](https://skillicons.dev/icons?i=spring) |
 
-- Backend:
-![PYTHON](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=green)
-![NODEJS](https://img.shields.io/badge/Node-black?style=flat-square&logo=Node.js&logoColor=%23fff)
+</td>
+</tr>
+</table>
 
-
-- Database:
- ![MYSQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=MySQL&logoColor=blue)
-
-- IDEs: 
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
- 
